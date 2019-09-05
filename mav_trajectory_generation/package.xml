@@ -23,4 +23,5 @@
   <depend>glog_catkin</depend>
   <depend>mav_msgs</depend>
   <depend>nlopt</depend>
+  <depend>mav_planning_msgs</depend>
 </package>
